@@ -5,8 +5,6 @@ description: This resource is a track sheet to keep hourly records of MIT theate
 file: /courses/21m-606-introduction-to-stagecraft-spring-2009/f99ccd1fa391fa1f73657010d8b21d73_MIT21M_606s09_hours.pdf
 file_size: 26116
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

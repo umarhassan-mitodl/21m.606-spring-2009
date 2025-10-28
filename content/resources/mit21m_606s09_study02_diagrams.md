@@ -4,8 +4,6 @@ description: ''
 file: /courses/21m-606-introduction-to-stagecraft-spring-2009/9d90ae9e547e695c9e4a35b5738ea2dc_MIT21M_606s09_study02_diagrams.pdf
 file_size: 871190
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

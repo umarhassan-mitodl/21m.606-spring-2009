@@ -2,8 +2,6 @@
 content_type: page
 description: This calendar section provides the schedule of lecture topics, lab hours,
   instructors, locations., quizzes, and projects.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -202,7 +200,7 @@ Set Shop
 
 Hand and power tool safety ({{% resource_link 9793ffd0-617f-cacf-1871-5765fea600ed "PDF" %}})
 
-[Power Tool Institute](http://www.powertoolinstitute.com/)
+{{% resource_link "b004e7c1-5f88-401a-8f92-55604ca9bf5e" "Power Tool Institute" %}}
 
 Quiz: scenic
 
